@@ -8,3 +8,5 @@
 <p><b>Through matplotlib:</b></p>
 <p>1) Import the necessary libraries</p>
 <p>2) Define the observed counts, This array represents the observed counts of each pet type for Male and Female</p>
+<p>3) Create a Matplotlib figure, axis and Loop through each gender and pet type Like, code iterates through genders and pet types, creating a bar chart for each combination. The bar function is used to create bars, and the bottom parameter is used to stack the bars on top of each other</p>
+<p>4) Add labels, titles, and legends, Then Display the plot</p>

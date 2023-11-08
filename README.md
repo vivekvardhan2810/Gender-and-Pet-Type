@@ -5,3 +5,5 @@
 <p>1) We can use the statsmodels library. First, you'll need to install the library if you haven't already. You can install it using pip</p> 
 <p>2) Create a dataframe from the given dataset and row it by Gender, pet and count</p>  
 <p>3) Then Create a mosaic plot using the mosaic function from statsmodels and display it with the specified title</p>
+<p><b>Through matplotlib:</b></p>
+<p>1) Import the necessary libraries</p>

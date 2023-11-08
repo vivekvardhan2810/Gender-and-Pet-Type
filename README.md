@@ -7,3 +7,4 @@
 <p>3) Then Create a mosaic plot using the mosaic function from statsmodels and display it with the specified title</p>
 <p><b>Through matplotlib:</b></p>
 <p>1) Import the necessary libraries</p>
+<p>2) Define the observed counts, This array represents the observed counts of each pet type for Male and Female</p>
